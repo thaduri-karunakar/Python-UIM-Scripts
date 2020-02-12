@@ -5,3 +5,4 @@ robotList = ['myChinarobot','myBhutanrobot','myBurmarobot','myIndiarobot','myJap
 for i in robotList:
     print (i)
 print (os.system('hostname'))
+print('above line should be hostname')
